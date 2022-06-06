@@ -4,8 +4,8 @@
 
 <h3>Description</h3>
 
-<p>About
-A small web application for adding restaurants in feed for advertisement. And for biewing added restaurants menus and search the menus, sorting and filtering by price and ratingss.</p>
+<p>
+A small web application for adding restaurants in feed for advertisement. And for viewing added restaurants menus and search the menus, sorting and filtering by price and ratingss.</p>
 
   <h3>Screenshots</h3>
   
