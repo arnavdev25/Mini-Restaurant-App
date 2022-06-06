@@ -1,8 +1,19 @@
 
+<h1>Mini Restaurant App<h1>
+<h3>Deploy Link: https://cute-dragon-acd199.netlify.app/ </h3>
 
-<h1>Deploy Link: https://visionary-treacle-6f5388.netlify.app/ </h1>
+<h3>Description</h3>
 
-# Getting Started with Create React App
+<p>About
+A small web application for adding restaurants in feed for advertisement. And for biewing added restaurants menus and search the menus, sorting and filtering by price and ratingss.</p>
+
+  <h3>Screenshots</h3>
+  
+  <img src="https://user-images.githubusercontent.com/98902869/172222165-5c87847d-f9db-49f5-9c29-3f3cab738544.png"/>
+  <img src="https://user-images.githubusercontent.com/98902869/172222316-8858de63-aa0d-4186-aa28-d6c219ee3049.png"/>
+
+  
+  # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
